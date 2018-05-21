@@ -1,0 +1,18 @@
+
+#mainbg {
+    margin: auto;
+    height: 960px;
+    width: 1280px;
+    background-image: url(http://avante.biz/wp-content/uploads/Cool-Green-Wallpapers/Cool-Green-Wallpapers-050.jpg);
+    background-repeat: no-repeat;
+    color: #ffffff;
+}
+
+#game_message {
+    background-color: yellowgreen;
+    color: #ffffff;
+}
+
+/* body, div, h1, h2 {
+    border: 1px solid white;
+} */
